@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<html>
+    <head>
+        <title>About Me</title>
+    </head>
+    <body>
+        <h2>Nombre y apellidos</h2>
+        <p style="color:gray">Carlos Cruz Domínguez</p>
+        <h2>Fecha de nacimiento</h2>
+        <p style="color:gray">20 de octubre de 1997</p>
+        <h2>Genero</h2>
+        <p style="color:gray">Masculino</p>
+        <h2>Descripcion</h2>
+        <p style="color:gray">Soy un programador ambicioso siempre mirando hacia nuevas metas ...</p>
+        <h2>Sitio web</h2>
+        <p style="color:gray">www.sitiowebpersonal.com</p>
+    </body>
+</html>
